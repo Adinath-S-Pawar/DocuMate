@@ -28,14 +28,17 @@ Watch DocuMate in action: [LinkedIn Demo Video](https://www.linkedin.com/posts/a
 
 ## Project Structure
 
+```
 DocuMate/
-├── DocuMateMain/ # Backend service (Spring Boot)
-│ ├── src/main/java/... # Backend source code
-│ └── application.properties
-├── DocuMateExtension/ # Chrome Extension frontend
-│ └── sidePanel.js
-├── .gitignore 
+├── DocuMateMain/          # Backend service (Spring Boot)
+│   ├── src/main/java/...  # Backend source code
+│   └── application.properties
+├── DocuMateExtension/     # Chrome Extension frontend
+│   └── sidePanel.js
+├── .gitignore
 └── README.md
+```
+
 
 ---
 
